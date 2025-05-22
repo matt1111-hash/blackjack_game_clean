@@ -6,3 +6,10 @@ __pycache__/
 *.old
 export/
 *.xlsx
+__pycache__/
+*.pyc
+*.pyo
+*.log
+venv/
+.env
+.DS_Store
